@@ -13,6 +13,7 @@ Overview
 
    getting_started/index.rst
    interfacing/index.rst
+   modules.rst
    contributing/index.rst
    support/index.rst
    faq/index.rst
@@ -33,11 +34,3 @@ Roadmap
 =======
 
 A near-term roadmap of the entire RMF project (including and beyond `rmf_core`) can be found in the user manual `here <https://osrf.github.io/ros2multirobotbook/roadmap.html>`_.
-
-
-.. Indices and tables
-.. ==================
-..
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
